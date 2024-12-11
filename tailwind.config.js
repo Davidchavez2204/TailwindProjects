@@ -12,7 +12,10 @@ module.exports = {
       },
       height:{
         '50':'200px'
-      }
+      },
+      screens: {
+        'tablet': '900px',
+      },
     },
   },
   plugins: [],
